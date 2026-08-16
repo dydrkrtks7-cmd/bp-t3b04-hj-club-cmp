@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gayang-nightlife-note.hwagok-karaoke-insider.xyz/sitemap.xml
+Sitemap: https://gayang-nightlife-note.hwagok-karaoke-insider.xyz/sitemap-pages.xml
